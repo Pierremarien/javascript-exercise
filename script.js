@@ -13,4 +13,4 @@ let name = 'Lambert';
 let firstName = 'Gerard ';
 let city = 'Paris';
 
-console.log('Your name is ' + firstName + name + ' you are ' + age + ' since ' + day + ' days and you live in ' + city)
+console.log('Your name is ' + firstName + name + ' you are ' + age + ' since ' + day + ' days and you live in ' + city);

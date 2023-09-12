@@ -7,7 +7,7 @@ function generateRandomIntegerInRange(min, max) {
 }
 */
 function rand10() {
-let num = Math.floor(Math.random()*(10-1+1))+1;
+let num = Math.floor(Math.random()*(10))+1;
 alert(num);
 }
 
